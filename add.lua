@@ -18,5 +18,3 @@ function del(a, b, s)
 	print(string.format("function add Input %s", s))
     return a/b
 end
-
-if
